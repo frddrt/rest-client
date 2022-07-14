@@ -1,4 +1,4 @@
-package br.com.frddrt.helpers
+package br.net.ferracini.helpers
 
 import org.json.JSONArray
 import org.json.JSONObject
